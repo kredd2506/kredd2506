@@ -1,10 +1,18 @@
 ## Hi there 👋
 
 <p align="center">
-  <a href="mailto:kreddy.manish@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://manishkreddy.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/manishkreddy"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.kaggle.com/manishkreddy"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+  <a href="mailto:kreddy.manish@gmail.com">
+    <img src="https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=232323" height="28"/>
+  </a>
+  <a href="https://manishkreddy.com">
+    <img src="https://img.shields.io/badge/Website-black?style=flat-square&logo=About.me&logoColor=white&labelColor=232323" height="28"/>
+  </a>
+  <a href="https://www.linkedin.com/in/manishkreddy">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=232323" height="28"/>
+  </a>
+  <a href="https://www.kaggle.com/manishkreddy">
+    <img src="https://img.shields.io/badge/Kaggle-black?style=flat-square&logo=kaggle&logoColor=20BEFF&labelColor=232323" height="28"/>
+  </a>
 </p>
 
 ```yaml
@@ -23,30 +31,3 @@ interests:
   - GenAI, LLMs, ML Research, DataOps
   - Technical Writing & Open Source
 fun_fact: "Grainger Innovation Prize Winner & Genisys Innovation Fellow"
-```
-
----
-
-<h2>🚀 Tech Stack</h2>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS" width="40"/>
-  <!-- Add more icons as needed -->
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kredd10&show_icons=true&theme=radical" alt="Manish's GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kredd10&layout=compact&theme=radical" height="180"/>
-</p>
-
-![Snake animation](https://github.com/kredd10/kredd10/blob/output/github-contribution-grid-snake.svg)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=100"/>
-</p>
