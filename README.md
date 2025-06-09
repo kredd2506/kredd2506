@@ -1,19 +1,10 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20There!%20👋%20I'm%20Manish%20K%20Reddy&animation=fadeIn&type=waving&color=gradient&height=120"/>
-</p>
-
-<p align="center">
   <a href="mailto:kreddy.manish@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://manishkreddy.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/manishkreddy"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.kaggle.com/manishkreddy"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <!-- Replace with a relevant/fun GIF of your choice -->
-  <img src="YOUR_GIF_URL" width="300"/>
 </p>
 
 ```yaml
