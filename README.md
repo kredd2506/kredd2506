@@ -48,10 +48,10 @@ fun_fact: "Grainger Innovation Prize Winner & Genisys Innovation Fellow"
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="50" alt="Kubernetes"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="50" alt="AWS"/>
+  <img src="(https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)" width="50" alt="AWS"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="50" alt="GCP"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="50" alt="MATLAB"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Weka_%28software%29_logo.png" width="50" alt="Weka"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Weka_logo.png" width="50" alt="Weka"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="50" alt="HuggingFace"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cuda/cuda-original.svg" width="50" alt="CUDA"/>
 </p>
