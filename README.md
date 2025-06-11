@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Manish K Reddy
+## Hi there! 👋
 
 <p align="center">
   <a href="mailto:kreddy.manish@gmail.com">
@@ -17,9 +17,11 @@
 
 ---
 
-### 🚀 About Me
+### ✨ Crafting Intelligence, One Line at a Time
+
+I'm a **Machine Learning Engineer and AI Enthusiast** on a mission to build smarter systems. Think of me as a digital architect, shaping everything from explainable AI for flood risk to captivating 3D facial animations. With a background from **Illinois Tech** and **BNMIT**, I thrive on diving deep into the world of **GenAI**, **LLMs**, and **ML Research**. When I'm not wrestling with code, I'm probably exploring the latest in tech or contributing to open source. Oh, and I've even snagged a **Grainger Innovation Prize** – just for fun!
+
 ```yaml
-name: Manish K Reddy
 role: Machine Learning Engineer | AI Enthusiast
 education: MS CS @ Illinois Tech | BE CS @ BNMIT
 skills:
@@ -34,8 +36,7 @@ projects:
 interests:
   - GenAI, LLMs, ML Research, DataOps
   - Technical Writing & Open Source
-fun_fact: "Grainger Innovation Prize Winner & Genisys Innovation Fellow"
-```
+
 
 ---
 
