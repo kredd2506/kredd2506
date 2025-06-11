@@ -1,13 +1,4 @@
-Here's a **cleaned-up, well-formatted, and visually balanced** version of your GitHub profile `README.md`. It retains all your links, badges, tech stack icons, and projects while fixing:
 
-- Duplicate footer images  
-- Incorrect or misplaced headers  
-- Inconsistent formatting in the `yaml` block  
-- Alt-text clarity for icons  
-
----
-
-```markdown
 ## Hi there 👋 I'm Manish K Reddy
 
 <p align="center">
