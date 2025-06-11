@@ -61,8 +61,8 @@ fun_fact: "Grainger Innovation Prize Winner & Genisys Innovation Fellow"
 ### 📈 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=kredd10&theme=radical" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=kredd2506&theme=radical" height="160"/>
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=100"/>
 </p>
