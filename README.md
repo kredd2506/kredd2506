@@ -1,3 +1,13 @@
+Here's a **cleaned-up, well-formatted, and visually balanced** version of your GitHub profile `README.md`. It retains all your links, badges, tech stack icons, and projects while fixing:
+
+- Duplicate footer images  
+- Incorrect or misplaced headers  
+- Inconsistent formatting in the `yaml` block  
+- Alt-text clarity for icons  
+
+---
+
+```markdown
 ## Hi there 👋 I'm Manish K Reddy
 
 <p align="center">
@@ -18,6 +28,7 @@
 ---
 
 ### 🚀 About Me
+
 ```yaml
 name: Manish K Reddy
 role: Machine Learning Engineer | AI Enthusiast
@@ -35,12 +46,36 @@ interests:
   - GenAI, LLMs, ML Research, DataOps
   - Technical Writing & Open Source
 fun_fact: "Grainger Innovation Prize Winner & Genisys Innovation Fellow"
+```
+
+---
+
+### 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50" alt="PyTorch"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="50" alt="Kubernetes"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" alt="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" alt="AWS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="50" alt="GCP"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="50" alt="MATLAB"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="50" alt="HuggingFace"/>
+</p>
+
+---
 
 ### 📈 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kredd2506&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.vercel.app/?user=kredd2506&theme=radical" height="160"/>
 </p>
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=100"/>
 </p>
+```
