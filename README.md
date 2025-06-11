@@ -1,62 +1,78 @@
-## Hi there! 👋
+## Hi there 👋 I'm Manish K Reddy
+
+
 
 <p align="center">
-  <a href="mailto:kreddy.manish@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://manishkreddy.com">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/manishkreddy">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.kaggle.com/manishkreddy">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>
+
+  <a href="mailto:kreddy.manish@gmail.com">
+
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+  </a>
+
+  <a href="https://manishkreddy.com">
+
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+
+  </a>
+
+  <a href="https://www.linkedin.com/in/manishkreddy">
+
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+  </a>
+
+  <a href="https://www.kaggle.com/manishkreddy">
+
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+
+  </a>
+
 </p>
+
+
 
 ---
 
-### ✨ Crafting Intelligence, One Line at a Time
 
-I'm a **Machine Learning Engineer and AI Enthusiast** on a mission to build smarter systems. Think of me as a digital architect, shaping everything from explainable AI for flood risk to captivating 3D facial animations. With a background from **Illinois Tech** and **BNMIT**, I thrive on diving deep into the world of **GenAI**, **LLMs**, and **ML Research**. When I'm not wrestling with code, I'm probably exploring the latest in tech or contributing to open source. Oh, and I've even snagged a **Grainger Innovation Prize** – just for fun!
+
+### 🚀 About Me
 
 ```yaml
+
+name: Manish K Reddy
+
 role: Machine Learning Engineer | AI Enthusiast
+
 education: MS CS @ Illinois Tech | BE CS @ BNMIT
+
 skills:
-  - Python, SQL, MATLAB, Weka
-  - PyTorch, HuggingFace, CUDA
-  - Kubernetes, Docker, AWS, GCP
-  - PostgreSQL, MongoDB
+
+  - Python, SQL, MATLAB, Weka
+
+  - PyTorch, HuggingFace, CUDA
+
+  - Kubernetes, Docker, AWS, GCP
+
+  - PostgreSQL, MongoDB
+
 projects:
-  - GSoC Contributor (Agentic AI Observability)
-  - Explainable AI for Flood Risk (H2.0 Resilience)
-  - 3D Facial Animation (MediaPipe + Unreal Engine)
+
+  - GSoC Contributor (Agentic AI Observability)
+
+  - Explainable AI for Flood Risk (H2.0 Resilience)
+
+  - 3D Facial Animation (MediaPipe + Unreal Engine)
+
 interests:
-  - GenAI, LLMs, ML Research, DataOps
-  - Technical Writing & Open Source
 
+  - GenAI, LLMs, ML Research, DataOps
 
----
+  - Technical Writing & Open Source
 
-### 🛠️ Tech Stack
+fun_fact: "Grainger Innovation Prize Winner & Genisys Innovation Fellow"
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50" alt="PyTorch"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" alt="Docker"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="50" alt="Kubernetes"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" alt="AWS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="50" alt="GCP"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="50" alt="MATLAB"/>
-
-  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="50" alt="HuggingFace"/>
-
-</p>
-
+```"
 ---
 
 ### 📈 GitHub Streak
