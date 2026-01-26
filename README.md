@@ -56,14 +56,5 @@ fun_fact: "Grainger Innovation Prize Winner & Genisys Innovation Fellow"
   <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="50" alt="HuggingFace"/>
 </p>
 
----
-### 📈 GitHub Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kredd2506&theme=radical" alt="GitHub Streak" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=100"/>
-</p>
 
