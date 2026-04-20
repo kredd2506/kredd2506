@@ -1,6 +1,6 @@
 ## Manish — building at the edge of AI systems
 
-Founder & CEO at **[Numina AI](https://numina.ai)** — multi-agent orchestration for accounting and back-office workflows in SMEs with non-standard processes.
+Founder & CEO at **[Numina AI](https://numina-ai.com)** — multi-agent orchestration for accounting and back-office workflows in SMEs with non-standard processes.
 
 AI Solutions Engineer at **CONA Services**, designing agentic infrastructure and autonomous remediation for Coca-Cola bottling operations.
 
@@ -19,7 +19,6 @@ Contributor to **[openxla/xla](https://github.com/openxla/xla)**. Previously Goo
 - **[OpenXLA-benchmark](https://github.com/kredd2506/OpenXLA-benchmark)** — cross-accelerator benchmarking infrastructure and published results.
 - **[openxla/xla contributions](https://github.com/openxla/xla/pulls?q=is%3Apr+author%3Akredd2506+is%3Amerged)** — 4 merged PRs, including an HLO verifier fix that surfaced 5 previously silent crash bugs.
 - **[Still Real](https://stillreal.app)** — consumer web app for identifying brand-licensed holding-company brands. Express / Postgres / React, 190+ seeded brands.
-- **[Qualcomm Cloud AI 100 Ultra vs. NVIDIA A100 for LLM inference](https://arxiv.org/abs/2507.00418)** — arXiv paper from GSoC work at SDSC.
 
 ### Background
 
@@ -35,6 +34,14 @@ Multi-agent orchestration · XLA / compiler-level ML · Accelerator benchmarking
 
 ---
 
+### When I'm not coding
+
+I'm running. Or sleeping. Or eating. Usually eating.
+
+<img src="https://media1.tenor.com/m/GwY1ftzMzbUAAAAd/uma-musume-oguri-cap.gif" width="260" alt="me, probably" />
+
+---
+
 ### Contact
 
-[Numina AI](https://numina.ai) · [LinkedIn](https://www.linkedin.com/in/manishkreddy) · [Email](mailto:kreddy.manish@gmail.com)
+[Numina AI](https://numina-ai.com) · [LinkedIn](https://www.linkedin.com/in/manishkreddy) · [Email](mailto:kreddy.manish@gmail.com)
