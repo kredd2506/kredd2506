@@ -1,60 +1,40 @@
+## Manish — building at the edge of AI systems
 
-## Hi there 👋 I'm Manish K Reddy
+Founder & CEO at **[Numina AI](https://numina.ai)** — multi-agent orchestration for accounting and back-office workflows in SMEs with non-standard processes.
 
-<p align="center">
-  <a href="mailto:kreddy.manish@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://manishkreddy.com">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/manishkreddy">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.kaggle.com/manishkreddy">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>
-</p>
+AI Solutions Engineer at **CONA Services**, designing agentic infrastructure and autonomous remediation for Coca-Cola bottling operations.
+
+Contributor to **[openxla/xla](https://github.com/openxla/xla)**. Previously Google Summer of Code at the San Diego Supercomputer Center (UC Santa Cruz OSPO), working on GPU observability across heterogeneous accelerators on the NRP/Nautilus cluster.
 
 ---
 
-### 🚀 About Me
+### What I'm working on
 
-```yaml
-name: Manish K Reddy
-role: Machine Learning Engineer | AI Enthusiast
-education: MS CS @ Illinois Tech | BE CS @ BNMIT
-skills:
-  - Python, SQL, MATLAB, Weka
-  - PyTorch, HuggingFace, CUDA
-  - Kubernetes, Docker, AWS, GCP
-  - PostgreSQL, MongoDB
-projects:
-  - GSoC Contributor (Agentic AI Observability)
-  - Explainable AI for Flood Risk (H2.0 Resilience)
-  - 3D Facial Animation (MediaPipe + Unreal Engine)
-interests:
-  - GenAI, LLMs, ML Research, DataOps
-  - Technical Writing & Open Source
-fun_fact: "Grainger Innovation Prize Winner & Genisys Innovation Fellow"
-```
+- **Numina orchestrator** — five-layer architecture with graph-based workflows and confidence-based human-in-the-loop routing. First SME deployment in progress.
+- **OpenXLA cross-platform benchmarking** — comparative study of TPU v6e, NVIDIA H200, and AMD MI300X. Three formalized hypotheses, draft paper in progress. [Published site →](https://kredd2506.github.io/OpenXLA-benchmark/)
+- **Basis Agent** — a 16-node LangGraph pipeline with specialized worker agents for autonomous SAP triage and remediation across enterprise bottler ops.
+
+### Selected work
+
+- **[OpenXLA-benchmark](https://github.com/kredd2506/OpenXLA-benchmark)** — cross-accelerator benchmarking infrastructure and published results.
+- **[openxla/xla contributions](https://github.com/openxla/xla/pulls?q=is%3Apr+author%3Akredd2506+is%3Amerged)** — 4 merged PRs, including an HLO verifier fix that surfaced 5 previously silent crash bugs.
+- **[Still Real](https://stillreal.app)** — consumer web app for identifying brand-licensed holding-company brands. Express / Postgres / React, 190+ seeded brands.
+- **[Qualcomm Cloud AI 100 Ultra vs. NVIDIA A100 for LLM inference](https://arxiv.org/abs/2507.00418)** — arXiv paper from GSoC work at SDSC.
+
+### Background
+
+- MS Computer Science, Illinois Institute of Technology (Genisys Innovation Fellow)
+- BE, B.N.M. Institute of Technology, Bangalore (founded SIGGRAPH BNMIT chapter)
+- Conrades Distinguished Fellowship, Dartmouth (Numina AI)
+- 2nd runner-up, Grainger Computing Innovation Prize (2023)
+- UC Berkeley VC University scholarship recipient
+
+### Areas I go deep in
+
+Multi-agent orchestration · XLA / compiler-level ML · Accelerator benchmarking (TPU / GPU) · Agentic observability at scale · Graph-based workflow systems · Applied RAG
 
 ---
 
-### 🧠 Tech Stack
+### Contact
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50" alt="PyTorch"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" alt="Docker"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="50" alt="Kubernetes"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" alt="AWS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="50" alt="GCP"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="50" alt="MATLAB"/>
-  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="50" alt="HuggingFace"/>
-</p>
-
-
-
+[Numina AI](https://numina.ai) · [LinkedIn](https://www.linkedin.com/in/manishkreddy) · [Email](mailto:kreddy.manish@gmail.com)
