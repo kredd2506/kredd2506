@@ -1,4 +1,4 @@
-## Manish — building at the edge of AI systems
+## Manish K Reddy
 
 Founder & CEO at **[Numina AI](https://numina-ai.com)** — multi-agent orchestration for accounting and back-office workflows in SMEs with non-standard processes.
 
@@ -8,17 +8,12 @@ Contributor to **[openxla/xla](https://github.com/openxla/xla)**. Previously Goo
 
 ---
 
-### What I'm working on
+### Work
 
 - **Numina orchestrator** — five-layer architecture with graph-based workflows and confidence-based human-in-the-loop routing. First SME deployment in progress.
-- **OpenXLA cross-platform benchmarking** — comparative study of TPU v6e, NVIDIA H200, and AMD MI300X. Three formalized hypotheses, draft paper in progress. [Published site →](https://kredd2506.github.io/OpenXLA-benchmark/)
-- **Basis Agent** — a 16-node LangGraph pipeline with specialized worker agents for autonomous SAP triage and remediation across enterprise bottler ops.
-
-### Selected work
-
-- **[OpenXLA-benchmark](https://github.com/kredd2506/OpenXLA-benchmark)** — cross-accelerator benchmarking infrastructure and published results.
+- **[OpenXLA-benchmark](https://github.com/kredd2506/OpenXLA-benchmark)** — comparative study of TPU v6e, NVIDIA H200, and AMD MI300X. Three formalized hypotheses, draft paper in progress. [Published site →](https://kredd2506.github.io/OpenXLA-benchmark/)
 - **[openxla/xla contributions](https://github.com/openxla/xla/pulls?q=is%3Apr+author%3Akredd2506+is%3Amerged)** — 4 merged PRs, including an HLO verifier fix that surfaced 5 previously silent crash bugs.
-- **[Still Real](https://stillreal.app)** — consumer web app for identifying brand-licensed holding-company brands. Express / Postgres / React, 190+ seeded brands.
+- **Basis Agent** — 16-node LangGraph pipeline with specialized worker agents for autonomous SAP triage and remediation across enterprise bottler ops.
 
 ### Background
 
@@ -27,10 +22,6 @@ Contributor to **[openxla/xla](https://github.com/openxla/xla)**. Previously Goo
 - Conrades Distinguished Fellowship, Dartmouth (Numina AI)
 - 2nd runner-up, Grainger Computing Innovation Prize (2023)
 - UC Berkeley VC University scholarship recipient
-
-### Areas I go deep in
-
-Multi-agent orchestration · XLA / compiler-level ML · Accelerator benchmarking (TPU / GPU) · Agentic observability at scale · Graph-based workflow systems · Applied RAG
 
 ---
 
@@ -44,4 +35,10 @@ I'm running. Or sleeping. Or eating. Usually eating.
 
 ### Contact
 
-[Numina AI](https://numina-ai.com) · [LinkedIn](https://www.linkedin.com/in/manishkreddy) · [Email](mailto:kreddy.manish@gmail.com)
+<p>
+  <a href="https://numina-ai.com" title="Numina AI"><img src="https://www.google.com/s2/favicons?domain=numina-ai.com&sz=64" height="28" alt="Numina AI"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/manishkreddy" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="28" alt="LinkedIn"/></a>
+  &nbsp;&nbsp;
+  <a href="mailto:kreddy.manish@gmail.com" title="Email"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="28" alt="Email"/></a>
+</p>
