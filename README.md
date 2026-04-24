@@ -18,7 +18,7 @@ Contributor to **[openxla/xla](https://github.com/openxla/xla)**. Previously Goo
 ### Background
 
 - MS Computer Science, Illinois Institute of Technology (Genisys Innovation Fellow)
-- BE, B.N.M. Institute of Technology, Bangalore (founded SIGGRAPH BNMIT chapter)
+- BE with Honours, B.N.M. Institute of Technology, Bangalore (founded SIGGRAPH BNMIT)
 - Conrades Distinguished Fellowship, Dartmouth (Numina AI)
 - 2nd runner-up, Grainger Computing Innovation Prize (2023)
 - UC Berkeley VC University scholarship recipient
